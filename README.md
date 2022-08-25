@@ -6,4 +6,4 @@ erik-johansson-bokhandelsgruppen/erik-johansson-bokhandelsgruppen is a ✨ speci
 You can click the Preview link to take a look at your changes.
 --->
 
-![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-johansson-bokhandelsgruppen&show_icons=true&theme=tokyonight)
+[![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-johansson-bokhandelsgruppen&show_icons=true&theme=tokyonight)](https://github.com/erik-johansson-bokhandelsgruppen)
